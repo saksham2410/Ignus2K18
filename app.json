@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Ignus",
+    "description": "An app for the Socio-Techno-Cult festival of IIT Jodhpur named IGNUS",
+    "slug": "Ignus-2018",
+    "privacy": "public",
+    "sdkVersion": "18.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "notification": {
+      "icon": "./assets/icons/notification-icon.png",
+      "color": "#000000"
+    },
+    "loading": {
+      "hideExponentText": true,
+      "icon": "./assets/icons/loading-icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+   "android": {
+     "package": "org.saksham.ignusapp"
+   },"ios": {
+      "bundleIdentifier": "com.saksham2410.ignusapp"
+    },
+  }
+  
+}

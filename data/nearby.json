@@ -1,0 +1,109 @@
+{
+  "Food": [
+    {
+      "name": "Shiv Shakti Hotel(Nearby)",
+      "image": "sakti",
+      "address": "Shiv Sakti Hotel Jheepasani"
+    },
+    {
+      "name": "Hotel Kalinga",
+      "image": "kalinga",
+      "address": "Kalinga Restraunt, Jodhpur"
+    },
+    {
+      "name": "On the Rocks",
+      "image": "rocks",
+      "address": "On The Rocks, Jodhpur"
+    },
+    {
+      "name": "Gypsy Dining Hall",
+      "image": "gypsy",
+      "address": "Gypsy Dining Hall, Jodhpur"
+    },
+    {
+      "name": "The Nerdy Beans",
+      "image": "nerdy",
+      "address": "The Nerdy Beans, Jodhpur"
+    },
+    {
+      "name": "Janta Sweets",
+      "image": "janta",
+      "address": "Janta Sweets, Jodhpur"
+    }
+  ],
+  "Coffee": [
+    {
+      "name": "CCD",
+      "image": "stumptown",
+      "address": "CCD Ratanada, Jodhpur"
+    },
+    {
+      "name": "Barista Coffee",
+      "image": "heartcoffee",
+      "address": "IIT Jodhpur"
+    },
+    {
+      "name": "Ajat Chay Bhandar",
+      "image": "barista",
+      "address": "Mehrangarh Fort, Jodhpur"
+    },
+    {
+      "name": "Rajkumar Coffee Stall",
+      "image": "courier",
+      "address": "IIT Jodhpur"
+    }
+
+  ],
+  "Sights": [
+    {
+      "name": "Mehrangarh Fort",
+      "image": "fort",
+      "address": "Mehrangarh Fort, Jodhpur"
+    },
+    {
+      "name": "Umaid Bhawan Palace",
+      "image": "umaid",
+      "address": "Umaid Bhawan Palace, Jodhpur"
+    },
+    {
+      "name": "Jaswant Thada",
+      "image": "jaswant",
+      "address": "Jaswant Thada, Jodhpur"
+    },
+    {
+      "name": "Mandore Gardens",
+      "image": "mandore",
+      "address": "Mandore gardens, Jodhpur"
+    },
+    {
+      "name": "Kailana Lake",
+      "image": "klake",
+      "address": "Kailana Lake, Jodhpur"
+    },
+    {
+      "name": "Rao Jodha Desert Rock Park",
+      "image": "rao",
+      "address": "Rao Jodha park, Jodhpur"
+    },
+    {
+      "name": "Clock Tower",
+      "image": "clock",
+      "address": "Clock Tower, Jodhpur"
+    },
+    {
+      "name": "Chamunda Mata Temple",
+      "image": "temple",
+      "address": "Chamunda Mata Temple, Jodhpur"
+    },
+    {
+      "name": "Balsamand Lake",
+      "image": "blake",
+      "address": "Balsamand Lake, Jodhpur"
+    },
+    {
+      "name": "Masuria Hills Garden",
+      "image": "hills",
+      "address": "Masuria Hills Garden, Jodhpur"
+    }
+  ]
+}
